@@ -36,7 +36,7 @@ The design focuses on clarity, ease of navigation, and an intuitive experience f
 </table>
 
 ## 📸 Preview
-<img src="FocusFlow-Personal-Productivity-App-UI-Design"  width="600">
+<img src="FocusFlow-Personal-Productivity-App-UI-Design.png"  width="600">
 
 ## 🔗 Live Prototype (Figma)
 <a href="https://www.figma.com/proto/QXBewRm1rwLnLan3FUjDUb/Untitled?node-id=167-6&p=f&t=wcWiYGLQGmsfpEIb-1&scaling=scale-down&content-scaling=fixed&page-id=167%3A5" target="_blank">

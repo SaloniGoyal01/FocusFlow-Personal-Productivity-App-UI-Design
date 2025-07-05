@@ -20,9 +20,9 @@ The design focuses on clarity, ease of navigation, and an intuitive experience f
     <td><b>Goals</b></td>
   </tr>
   <tr>
-    <td><img src="screen1.png" width="200"></td>
-    <td><img src="screen2.png" width="200"></td>
-    <td><img src="screen3.png" width="200"></td>
+    <td><img src="screen_1.png" width="200"></td>
+    <td><img src="screen_2.png" width="200"></td>
+    <td><img src="screen_3.png" width="200"></td>
   </tr>
 
    <tr>
@@ -30,12 +30,13 @@ The design focuses on clarity, ease of navigation, and an intuitive experience f
     <td><b>Daily Task Timeline</b></td>
   </tr>
   <tr>
-    <td><img src="screen4.png" width="200"></td>
-    <td><img src="screen5.png" width="200"></td>
+    <td><img src="screen_4.png" width="200"></td>
+    <td><img src="screen_5.png" width="200"></td>
   </tr>
 </table>
 
 ## 📸 Preview
+<img src="FocusFlow-Personal-Productivity-App-UI-Design"  width="600">
 
 ## 🔗 Live Prototype (Figma)
 <a href="https://www.figma.com/proto/QXBewRm1rwLnLan3FUjDUb/Untitled?node-id=167-6&p=f&t=wcWiYGLQGmsfpEIb-1&scaling=scale-down&content-scaling=fixed&page-id=167%3A5" target="_blank">
